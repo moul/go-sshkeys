@@ -1,7 +1,7 @@
 # go-sshkeys
 :wrench: Golang SSH Keys manipulation library
 
-[![GoDoc](https://godoc.org/github.com/moul/go-sshkeys?status.svg)](https://godoc.org/github.com/moul/go-sshkeys)
+[![GoDoc](https://godoc.org/github.com/moul/go-sshkeys?status.svg)](https://godoc.org/github.com/moul/go-sshkeys) [![GuardRails badge](https://badges.production.guardrails.io/moul/go-sshkeys.svg)](https://www.guardrails.io)
 
 ## Install
 
